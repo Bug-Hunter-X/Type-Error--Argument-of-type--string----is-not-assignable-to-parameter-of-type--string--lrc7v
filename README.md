@@ -1,0 +1,3 @@
+# Type Error in TypeScript
+
+This repository demonstrates a common type error in TypeScript where a function expecting a string argument is passed an array of strings.  The error message clearly indicates the type mismatch. The solution involves modifying either the function signature or the argument passed to match the expected type.  This example highlights the importance of carefully considering function parameters and argument types when writing TypeScript code.
